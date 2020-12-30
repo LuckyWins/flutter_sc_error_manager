@@ -20,7 +20,7 @@ void main() {
 }
 ```
 
-or wrap your app widget with `ScErrorWidget`
+or wrap your app widget with `ScErrorWidget` if you would like to use w/ screenshot
 
 ``` dart
 ScErrorWidget(
@@ -28,7 +28,7 @@ ScErrorWidget(
   chatId: 12345678,
   child: MaterialApp(
     title: 'Flutter Demo',
-    home: MyHomePage(title: 'Flutter Demo Home Page'),
+    home: HomePage(),
   ),
 );
 ```
