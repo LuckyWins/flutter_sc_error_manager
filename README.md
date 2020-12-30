@@ -41,7 +41,7 @@ SCErrorManager.sendMessage("error text");
 
 Telegram message:
 
-![message](screenshot/noloop.gif)
+![message](screenshot/telegram-message.png)
 
 ## License
 
