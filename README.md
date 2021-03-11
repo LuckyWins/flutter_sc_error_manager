@@ -1,6 +1,6 @@
 # sc_error_manager
 
-SC Error manager which send errors w/ screenshot to Telegram
+SC Error manager which sends errors w/ screenshot to Telegram
 
 ## Usage
 
